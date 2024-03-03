@@ -157,6 +157,7 @@ No known bugs at this time.
 Olawale Isaac - [Github](https://github.com/theijhay) / [Twitter](https://www.twitter.com/o_isaacjohn)
 
 Avellin Bonaparte - [Github](https://github.com/Avellin003)
+
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
